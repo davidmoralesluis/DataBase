@@ -7,10 +7,10 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) {
 
-        Interfazz fazz = new Interfazz();
-        fazz.run();
+        //Interfazz fazz = new Interfazz();
+       // fazz.run();
 
-        //Metodos.Connecting();
+        Metodos.Connecting();
 
 
         //Statement
